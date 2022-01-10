@@ -14952,6 +14952,7 @@
 		"ModelScale"		"0.740000"
 		"LoadoutScale"		"0.800000"
 		"CMEnabled"		"1"
+		"NameAliases"		"iv,carl,kael"
 		"SimilarHeroes"		"34,22,45"
 		"PickSound"		"invoker_invo_spawn_02"
 		"BanSound"		"invoker_invo_anger_04"
