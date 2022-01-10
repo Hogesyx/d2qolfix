@@ -1610,6 +1610,7 @@
 		"VersusScale"		"0.770000"
 		"HeroGlowColor"		"255 160 0"
 		"CMEnabled"		"1"
+		"NameAliases"		"es"
 		"workshop_guide_name"		"Earthshaker"
 		"NoCombine"		"0"
 		"LastHitChallengeRival"		"npc_dota_hero_tiny"
