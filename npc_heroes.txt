@@ -14415,7 +14415,7 @@
 		"Complexity"	"1"
 		"Team"		"Bad"
 		"CMEnabled"		"1"
-		"NameAliases"		"sb,barathrum"
+		"NameAliases"		"sb,barathrum,spacecow,bangbus"
 		"workshop_guide_name"		"Spirit Breaker"
 		"new_player_enable"		"1"
 		"SimilarHeroes"		"106,126,107"
